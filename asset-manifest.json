@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/DcPlusWebSite/static/css/main.d7ce2b07.chunk.css",
+    "main.js": "/DcPlusWebSite/static/js/main.4d45b4dc.chunk.js",
+    "main.js.map": "/DcPlusWebSite/static/js/main.4d45b4dc.chunk.js.map",
+    "runtime-main.js": "/DcPlusWebSite/static/js/runtime-main.6723682f.js",
+    "runtime-main.js.map": "/DcPlusWebSite/static/js/runtime-main.6723682f.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/DcPlusWebSite/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.68746da3.chunk.js": "/DcPlusWebSite/static/js/2.68746da3.chunk.js",
+    "static/js/2.68746da3.chunk.js.map": "/DcPlusWebSite/static/js/2.68746da3.chunk.js.map",
+    "index.html": "/DcPlusWebSite/index.html",
+    "static/css/2.78afd4a5.chunk.css.map": "/DcPlusWebSite/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.d7ce2b07.chunk.css.map": "/DcPlusWebSite/static/css/main.d7ce2b07.chunk.css.map",
+    "static/js/2.68746da3.chunk.js.LICENSE.txt": "/DcPlusWebSite/static/js/2.68746da3.chunk.js.LICENSE.txt",
+    "static/media/383207.5377637e.png": "/DcPlusWebSite/static/media/383207.5377637e.png",
+    "static/media/img1.becd1465.svg": "/DcPlusWebSite/static/media/img1.becd1465.svg",
+    "static/media/img3.2c0445ca.svg": "/DcPlusWebSite/static/media/img3.2c0445ca.svg",
+    "static/media/web2.b503c7a7.jpg": "/DcPlusWebSite/static/media/web2.b503c7a7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6723682f.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.68746da3.chunk.js",
+    "static/css/main.d7ce2b07.chunk.css",
+    "static/js/main.4d45b4dc.chunk.js"
+  ]
+}
